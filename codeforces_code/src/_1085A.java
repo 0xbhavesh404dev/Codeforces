@@ -28,6 +28,7 @@ public class _1085A {
             int min = (L + 1) / 2;
 
             System.out.println(min + " " + max);
+            int tg=sc.nextInt();
         }
 
         sc.close();
